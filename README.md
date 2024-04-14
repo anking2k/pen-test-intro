@@ -1,8 +1,8 @@
 # pen-test-intro (web app)
 ## Information Gathering
 + 1st step of any pen test and involves gathering/collecting information about an individual, company, or website you are targeting
-+ Typically described as 2 types
-&nbsp; &nbsp; &nbsp; &nbsp; Passive - gathering information without actively engaging target
++ Typically described as 2 types<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Passive - gathering information without actively engaging target<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Active - gathering information by actively engaging with the target system (BE SURE TO GET AUTHORIZATION)
 + This initial phase of gathering information about the target server/web app is considred the most important phase of the engagement by many
 + Record everyhing (no such thing as unnecessary information that has been collected)
