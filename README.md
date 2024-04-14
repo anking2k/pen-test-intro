@@ -23,6 +23,7 @@
 + DNS Zone Transfers
 + Subdomain enumeration via Brute-Force
 
-### Link to OWASP Release 4.2 PDF - https://github.com/OWASP/wstg/releases/download/v4.2/v4.2_ReleaseNotes.txt
+### Link to OWASP Release 4.2 PDF - https://github.com/OWASP/wstg/releases/download/v4.2/v4.2_ReleaseNotes.txt<br>
+### Link to OWASP WAST Checklist - https://github.com/tanprathan/OWASP-Testing-Checklist/blob/master/OWASP_WSTG_Checklist.xlsx
 
 
