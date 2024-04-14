@@ -1,5 +1,5 @@
 # pen-test-intro (web app)
-## Information Gathering
+## Information Gathering - https://github.com/OWASP/wstg/releases/download/v4.2/v4.2_ReleaseNotes.txt
 + 1st step of any pen test and involves gathering/collecting information about an individual, company, or website you are targeting
 + Typically described as 2 types<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Passive - gathering information without actively engaging target<br>
